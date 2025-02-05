@@ -1,1 +1,2 @@
 # AI-Powered-Chatbot-for-Supplier-and-Product-Information
+#this is  User-friendly design and objective to develop this chatbot is to  allows users to query a product and supplier database using natural language. The chatbot is interact with an open-source LLM and utilizing LangGraph framework for agent workflows to fetch relevant information from a MySQL/PostgreSQL database and summarizing  the data using LLM.
